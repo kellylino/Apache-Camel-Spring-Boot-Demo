@@ -11,5 +11,5 @@ To build and package the application into a JAR file, run the following command:
 ```bash
 mvn package
 
-```bash
+
 java -jar target/camel-example-spring-boot-1.0-SNAPSHOT.jar Apache.Camel.Experiment.demo.CamelApplication
