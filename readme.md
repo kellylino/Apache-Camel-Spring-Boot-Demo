@@ -9,7 +9,6 @@ This project demonstrates the use of **Apache Camel** to fetch data from a REST 
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 
 ---
 
